@@ -17,14 +17,14 @@ global.APIKeys = {
 }
 
 //Owner React
-global.OWNER_REACT = '🧑🏻‍💻' //මෙතනට emoji එකක දාන්න.
-global.REACT_NUMBER = '9476342733' //මෙතන number එක.
+global.OWNER_REACT = '🙂' //මෙතනට emoji එකක දාන්න.
+global.REACT_NUMBER = '94703562651' //මෙතන number එක.
 
 // Other
-global.owner = ['9476342733',''] //මෙතන number එක.
-global.premium = ['9476342733','9476342733'] //මෙතන number එක.
-global.botname = 'VIHANGA BOT INC' //මෙතන නම.
-global.ownername = 'Vihanga MD' //මෙතන නම.
+global.owner = ['94743096726',''] //මෙතන number එක.
+global.premium = ['94743096726','9476342733'] //මෙතන number එක.
+global.botname = '𝗮𝗺𝗱𝗮 𝗯𝗼𝘁 𝗼𝗳𝗳𝗶𝗰𝗶𝗮𝗹' //මෙතන නම.
+global.ownername = '𝗔𝗠𝗗𝗔 𝗯𝗼𝘁' //මෙතන නම.
 global.ownername = 'ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ' //මෙතන නම.
 global.group1 = 'https://chat.whatsapp.com/GTJmlChJZkoBhHVsENgc3Z' //මෙතන grouplink එක.
 global.group2 = 'https://chat.whatsapp.com/GTJmlChJZkoBhHVsENgc3Z' //මෙතන grouplink එක.
@@ -39,11 +39,11 @@ global.goldAwal = '10' //මෙතන මාරු කරන්න එපා.
 global.emeraldAwal = '5' //මෙතන මාරු කරන්න එපා.
 global.umpanAwal = '5' //මෙතන මාරු කරන්න එපා.
 global.potionAwal = '1' //මෙතන මාරු කරන්න එපා.
-global.dripstyping = false //මෙතන මාරු කරන්න එපා.
+global.dripstyping = true //මෙතන මාරු කරන්න එපා.
 global.dripsreadgroup = false //මෙතන මාරු කරන්න එපා. 
 global.dripsreadall = false //මෙතන මාරු කරන්න එපා.
 global.dripsrecord = false //මෙතන මාරු කරන්න එපා.
-global.available = false //මෙතන මාරු කරන්න එපා.
+global.available = true //මෙතන මාරු කරන්න එපා.
 global.unavailable = true //මෙතන මාරු කරන්න එපා.
 global.limittot = 100, //මෙතන මාරු කරන්න එපා.
 global.f1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation' //මෙතන මාරු කරන්න එපා.
